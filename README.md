@@ -1,5 +1,5 @@
-# YOLOv8 Knowledge Distillation
-This project implements knowledge distillation on YOLOv8 to create a smaller, more efficient model for object detection. The goal is to reduce the model size while maintaining high detection accuracy.
+# YOLOv8 Knowledge Distillation with Custom Dataset
+This project implements knowledge distillation on YOLOv8 to transfer your big model to smaller model, with your custom dataset
 
 ## Installation
 1. Clone the repository
